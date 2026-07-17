@@ -1,8 +1,8 @@
-## Purpose
+# Purpose
 
 These mapping files are used by the Python scripts to enrich and validate CheckFile shipment data — including zone classification, hub assignment, and seller/vendor mapping — to generate accurate end-to-end logistics reports.
 
-# Mapping Files
+## Mapping Files
 
 This folder contains the mapping and reference files used in the CheckFile report pipeline.
 
